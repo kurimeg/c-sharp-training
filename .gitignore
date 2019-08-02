@@ -1,0 +1,18 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/DataAccessBasic/.vs/DataAccessBasic
+/DataAccessBasic/packages
+/DataAccessBasic/DataAccessBasic/bin
+/DataAccessBasic/DataAccessBasic/obj/Debug
+/MVCBasic/.vs/MVCBasic
+/MVCBasic/MVCBasic.BusinessLayer/obj/Debug
+/MVCBasic/MVCBasic.BusinessLayer/bin/Debug
+/MVCBasic/MVCBasic.DataAccessLayer/obj/Debug
+/MVCBasic/MVCBasic.DataAccessLayer/bin/Debug
+/MVCBasic/MVCBasic.Model/obj/Debug
+/MVCBasic/MVCBasic.Model/bin/Debug
+/MVCBasic/MVCBasic.WebApp/bin
+/MVCBasic/MVCBasic.WebApp/obj/Debug
+/MVCBasic/packages
