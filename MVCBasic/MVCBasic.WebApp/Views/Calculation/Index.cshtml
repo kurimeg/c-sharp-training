@@ -1,0 +1,21 @@
+﻿@model MVCBasic.WebApp.Models.CalculationViewModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<hr />
+@using (Html.BeginForm("Calculate",      // アクション名
+                      "Calculation",      // コントローラー名
+                       FormMethod.Post // HTTP メソッド
+))
+{
+    <div>
+
+        @Html.TextBoxFor(m => m.LeftNum)
+
+        @Html.DropDownListFor(m => m.SelectedOperator, Model.Operators)
+
+        @Html.TextBoxFor(m => m.RightNum)
+        <input id="BtnEnter" type="submit" value="Enter">
+    </div>
+}
