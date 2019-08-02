@@ -1,0 +1,6 @@
+D:\Projects\MVCBasic\MVCBasic.Model\bin\Debug\MVCBasic.Model.dll
+D:\Projects\MVCBasic\MVCBasic.Model\bin\Debug\MVCBasic.Model.pdb
+D:\Projects\MVCBasic\MVCBasic.Model\obj\Debug\MVCBasic.Model.csprojAssemblyReference.cache
+D:\Projects\MVCBasic\MVCBasic.Model\obj\Debug\MVCBasic.Model.csproj.CoreCompileInputs.cache
+D:\Projects\MVCBasic\MVCBasic.Model\obj\Debug\MVCBasic.Model.dll
+D:\Projects\MVCBasic\MVCBasic.Model\obj\Debug\MVCBasic.Model.pdb
